@@ -1,0 +1,10 @@
+.sidebar {
+	padding-top: 20px;
+}
+
+.user {
+	padding: 5px;
+	margin: 15px;
+	border: 1px solid gray;
+	border-radius: 5px;
+}
